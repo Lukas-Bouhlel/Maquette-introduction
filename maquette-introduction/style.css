@@ -1,0 +1,974 @@
+#maquette {
+    position: absolute;
+    width: 1663px;
+    height: 1547px;
+    opacity: 0;
+}
+#html{
+    width: 1663px;
+    height: 1547px;
+}
+#body {
+    width: 1663px;
+    height: 1547px;
+}
+#logoABC {
+    position: relative;
+    top: 40.5px;
+    left: 362px;
+}
+.nav1 a{
+    margin: auto;
+    color: #85827f;
+    text-decoration: none;
+}
+.list1 {
+    list-style: none;
+    top: 45px;
+    position: relative;
+    width: 113px;
+    left: 634px;
+    height: 112px;
+}
+#hotels li{
+    position: relative;
+    font-family: "Droid sans";
+    left: 13px;
+    top: 30px;
+    height: 20px;
+    font-size: 9.8px;
+    font-weight: normal;
+}
+.hotel{
+    position: relative;
+    top: -25px;
+    font-family: "Oswald";
+    font-size: 14.5px;
+    letter-spacing: -0px;
+    color: #85827f;
+    font-weight: normal;
+}
+.list2 {
+    list-style: none;
+    top: -85px;
+    position: relative;
+    width: 130px;
+    left: 762px;
+    height: 112px;
+}
+#restaurants li{
+    position: relative;
+    height: 20px;
+    left: 9px;
+    top: 32px;
+    font-family: "Droid sans";
+    font-size: 9.8px;
+    font-weight: normal;
+}
+.restaurant {
+    position: relative;
+    top: -25px;
+    font-family: "Oswald";
+    font-size: 14.5px;
+    letter-spacing: -0px;
+    color: #85827f;
+    font-weight: normal;
+}
+.list3 {
+    list-style: none;
+    top: -212px;
+    position: relative;
+    width: 109px;
+    left: 905px;
+    height: 112px;
+}
+#services li{
+    position: relative;
+    height: 20px;
+    left: 10px;
+    top: 32px;
+    font-family: "Droid sans";
+    font-size: 10px;
+    font-weight: normal;
+}
+.service {
+    position: relative;
+    top: -26.5px;
+    font-family: "Oswald";
+    font-size: 14.5px;
+    letter-spacing: 0px;
+    color: #85827f;
+    font-weight: normal;
+}
+.list4 {
+    list-style: none;
+    top: -339px;
+    position: relative;
+    width: 113px;
+    left: 1019px;
+    height: 112px;
+}
+#activites li{
+    position: relative;
+    height: 20px;
+    left: 13px;
+    top: 30px;
+    font-family: "Droid sans";
+    font-size: 9.8px;
+    font-weight: normal;
+}
+.activite {
+    position: relative;
+    top: -25px;
+    font-family: "Oswald";
+    font-size: 14.5px;
+    letter-spacing: 0.25px;
+    color: #85827f;
+    font-weight: normal;
+}
+.list5 {
+    list-style: none;
+    top: -468px;
+    position: relative;
+    width: 128px;
+    left: 1143px;
+    height: 112px;
+}
+#plus li{
+    position: relative;
+    height: 20px;
+    left: 12px;
+    top: 31px;
+    font-family: "Droid sans";
+    font-size: 9.8px;
+    font-weight: normal;
+}
+.plus1 {
+    position: relative;
+    top: -25.5px;
+    font-family: "Oswald";
+    font-size: 14.5px;
+    letter-spacing: -0.1px;
+    color: #85827f;
+    font-weight: normal;
+}
+#line1 {
+    position: relative;
+    top: -162px;
+    color: #f1f8f8;
+    opacity: 0.17;
+}
+header {
+    background-image: url("misc/grille.png");
+    height: 182px;
+    width: 1663px;
+    position: relative;
+}
+ .couleurOrange {
+    position: relative;
+    top: -34.1px;
+    left: 681px;
+    width:99.1px;
+    height: 5px;
+    background: #f76900;
+ }
+ .couleurJaune {
+     position: relative;
+     top: -39.1px;
+     left: 805.2px;
+     width:119.5px;
+     height: 5px;
+     background: #fcd04a;
+ }
+ .couleurVerte {
+    position: relative;
+    top: -44.1px;
+    left: 950px;
+    width:92.1px;
+    height: 5px;
+    background: #b9d482;
+}
+.couleurBleu {
+    position: relative;
+    top: -49.1px;
+    left: 1067px;
+    width:97.1px;
+    height: 5px;
+    background: #3d92c2;
+}
+.couleurViolette {
+    position: relative;
+    top: -54.1px;
+    left: 1189px;
+    width:113.1px;
+    height: 5px;
+    background: #c078d0;
+}
+iframe {
+    position: relative;
+    top: 40px;
+    left: 512px;
+    border: none;
+}
+#grille2 {
+    position: relative;
+    background-image: url("misc/grille.png");
+    height: 88px;
+    top: 276px;
+    width: 1663px;
+}
+#line2 {
+    position: relative;
+    top: 285px;
+    color: #f1f8f8;
+    opacity: 0.17;
+}
+#line3 {
+    position: relative;
+    top: 384px;
+    color: #f1f8f8;
+    opacity: 0.17;
+}
+#texte1 {
+    position: relative;
+    top: 118px;
+    left: 834px;
+    letter-spacing: 1.05px;
+    font-family: "Droid Serif";
+    color: #77787c;
+    font-weight: normal;
+}
+#texte2 {
+    position: relative;
+    top: 99.499px;
+    left: 979.1px;
+    letter-spacing: 0.875px;
+    font-family: "Droid Serif";
+    color: #77787c;
+    font-weight: normal;
+}
+#texte3 {
+    position: relative;
+    top: 80.1px;
+    left: 664.1px;
+    letter-spacing: 0.875px;
+    font-family: "Droid Serif";
+    color: #77787c;
+    font-weight: normal;
+}
+#texte4 {
+    position: relative;
+    top: 61.2px;
+    left: 458.1px;
+    letter-spacing: 0.86px;
+    font-family: "Droid Serif";
+    color: #77787c;
+    font-weight: normal;
+}
+#texte5 {
+    position: relative;
+    top: 42.3px;
+    left: 597.7px;
+    letter-spacing: 1.7px;
+    font-family: "Droid Serif";
+    color: #77787c;
+    font-weight: normal;
+}
+
+@font-face{
+    font-family: "Droid Serif";
+    src: url(misc/droid-serif-italic.ttf);
+}
+#golf{
+    position: relative;
+    height: 350px;
+    top: 110px;
+    width: 222px;
+    left: 362px;
+    list-style-type: none;
+}
+#cadre1 {
+    height: 348px;
+    border: 1px solid #e5e6e6;
+}
+#golfTitre {
+    position: relative;
+    font-family: "Oswald";
+    top: -350px;
+    left: 10px;
+    font-size: 20px;
+    letter-spacing: -0.2px;
+    font-weight: normal;
+    color: #e97b29;
+}
+#publie1 {
+    position: relative;
+    top: -362px;
+    left: 11px;
+    font-size: 9px;
+    letter-spacing: 0.46px;
+    font-family: "droid serif";
+    color: #949799;
+    font-weight: normal;
+}
+#golfImage {
+    position: relative;
+    top: -361px;
+    left: 11px;
+}
+#paragraphe1 {
+    position: relative;
+    top: -371px;
+    left: 11px;
+    font-size: 11.7px;
+    font-family: "Droid sans";
+    line-height: 20px;
+    letter-spacing: 0.16px;
+    color:
+    #76767a;
+}
+#LirePlus {
+    position: relative;
+    left: -30px;
+    top: -378px;
+    list-style: none;
+}
+#lirePlus1 {
+    position: relative;
+    font-family: "Droid serif";
+    font-size: 12.9px;
+    letter-spacing: -0.2px;
+    top: 0px;
+    font-weight: normal;
+    color: #949799;
+    text-decoration: none;
+}
+#accro {
+    position: relative;
+    height: 178px;
+    top: -251px;
+    width: 218px;
+    left: 596px;
+    list-style-type: none;
+}
+#gf {
+    position: relative;
+    height: 348px;
+    width: 220px;
+    left: 362px;
+    top: 102px;
+    border-width:1px;
+    border-style:ridge;
+    border-color:#dddddd;
+}
+#date{
+    position: relative;
+    font-family: 'Droid sans';
+    left: 371.6px;
+    top: -258px;
+    font-size: 10px;
+    color:
+    #77787c;
+    line-height: 19.8px;
+    letter-spacing: -0.2px;
+}    
+
+#fast {
+    position: relative;
+    height: 178px;
+    top: -235px;
+    width: 218px;
+    left: 596px;
+    list-style-type: none;
+}
+#com {
+    position: relative;
+    height: 147px;
+    top: -642px;
+    width: 450px;
+    left: 839px;
+    list-style-type: none;
+}
+#ia {
+    position: relative;
+    height: 225px;
+    top: -644px;
+    width: 435px;
+    left: 839px;
+}
+
+
+
+
+#accroo {
+    position: relative;
+    font-family: "Oswald";
+    top: 10px;
+    left: 11.5px;
+    font-size: 20px;
+    letter-spacing: -0.29px;
+    font-weight: normal;
+    color: #e97b29;
+}
+#pub2 {
+    position: relative;
+    top: -2.5px;
+    left: 13px;
+    font-size: 9px;
+    letter-spacing: 0.46px;
+    font-family: "droid serif";
+    color: #949799;
+    font-weight: normal;
+}
+#p2 {
+    position: relative;
+    top: -4px;
+    left: 12.5px;
+    font-size: 11.5px;
+    font-family: "Droid sans";
+    line-height: 20px;
+    letter-spacing: 0.19px;
+    color: #76767a;
+}
+#fastt {
+    position: relative;
+    font-family: "Oswald";
+    top: 2px;
+    left: 11.5px;
+    font-size: 19.9px;
+    letter-spacing: -0.34px;
+    font-weight: normal;
+    color: #e97b29;
+}
+#pub3 {
+    position: relative;
+    top: -11px;
+    left: 13px;
+    font-size: 9px;
+    letter-spacing: 0.46px;
+    font-family: "droid serif";
+    color: #949799;
+    font-weight: normal;
+}
+#p3 {
+    position: relative;
+    top: -11.5px;
+    left: 12px;
+    font-size: 11.3px;
+    font-family: "Droid sans";
+    line-height: 20px;
+    letter-spacing: 0.27px;
+    color: #76767a;
+}
+#comm {
+    position: relative;
+    font-family: "Oswald";
+    top: 12px;
+    left: 9px;
+    font-size: 20px;
+    letter-spacing: -0.32px;
+    font-weight: normal;
+    color: #e97b29;
+}
+#pub4 {
+    position: relative;
+    top: 0px;
+    left: 10px;
+    font-size: 9px;
+    letter-spacing: 0.46px;
+    font-family: "droid serif";
+    color: #949799;
+    font-weight: normal;
+}
+#p4{
+    position: relative;
+    top: -2px;
+    left: 9.5px;
+    font-size: 11.3px;
+    font-family: "Droid sans";
+    line-height: 19.8px;
+    letter-spacing: 0.2px;
+    color: #76767a;
+}
+
+
+#lp2 {
+    position: relative;
+    font-family: "Droid serif";
+    font-size: 12.9px;
+    left: 11.5px;
+    letter-spacing: -0.15px;
+    top: 44px;
+    color: #949799;
+    text-decoration: none;
+    list-style: none;
+}
+#lp3 {
+    position: relative;
+    font-family: "Droid serif";
+    font-size: 12.9px;
+    left: 12.1px;
+    letter-spacing: -0.2px;
+    top: 36px;
+    font-weight: normal;
+    color: #949799;
+    text-decoration: none;
+}
+#lp4 {
+    position: relative;
+    font-family: "Droid serif";
+    font-size: 12.9px;
+    left: 9px;
+    letter-spacing: -0.2px;
+    top: 47px;
+    font-weight: normal;
+    color: #949799;
+    text-decoration: none;
+}
+#accrobranche {
+    position: relative;
+    top: 36px;
+    left: 39px;
+}
+#accrobranche img{
+    border: 1px solid #dddddd;
+    padding: 7px;
+}
+#ah1{
+    position: relative;
+    left: -28.5px;
+    top: -24px;
+    box-shadow: 1px 1px 3px 1px #f6f6f6;
+}
+#ah2 {
+    position: relative;
+    top: -24px;
+    left: -23.5px;
+    box-shadow: 1px 1px 3px 1px #f6f6f6;
+}
+#ah3 {
+    position: relative;
+    left: -18px;
+    top: -24px;
+    box-shadow: 1px 1px 3px 1px #f6f6f6;
+}
+#ah4 {
+    position: relative;
+    left: -28.5px;
+    top: -15px;
+    box-shadow: 1px 1px 3px 1px #f6f6f6;
+}
+#ah5 {
+    position: relative;
+    top: -15px;
+    left: -23.5px;
+    box-shadow: 1px 1px 3px 1px #f6f6f6;
+}
+#ah6 {
+    position: relative;
+    left: -18px;
+    top: -15px;
+    box-shadow: 1px 1px 3px 1px #f6f6f6;
+}
+#foood{
+    position: relative;
+    left: -40px;
+    top: -55px;
+    list-style: none;
+}
+#foad{
+    position: relative;
+    left: -40px;
+    top: -55px;
+    list-style: none;
+}
+#foaod{
+    position: relative;
+    left: -40px;
+    top: -55px;
+    list-style: none;
+}
+
+nav {
+    position: relative;
+    top: -154px;
+    height: 205px;
+}
+#footers {
+    position: relative;
+    top: -589px;
+    width: 1666px;
+    height: 253px;
+}
+#lign4 {
+    position: relative;
+    color: #f1f8f8;
+    opacity: 0.17;
+    top: -222px;
+}
+#lign5 {
+    position: relative;
+    color: #f1f8f8;
+    opacity: 0.17;
+    top: 10px;
+}
+#navf {
+    position: relative;
+    top: -229px;
+}
+#olCont {
+    position: relative;
+    height: 194px;
+    width: 158px;
+    left: 324px;
+    list-style: none;
+}
+#Cont {
+    position: relative;
+    top: 19px;
+    font-family: "Oswald";
+    font-size: 14.5px;
+    letter-spacing: 0.15px;
+    color:
+    #85827f;
+    font-weight: normal;
+    left: 8px;
+}
+#acc {
+    position: relative;
+    top: 23px;
+    left: 8px;
+}
+#poneys {
+    position: relative;
+    top: -19.5px;
+    left: 33px;
+    font-size: 11.3px;
+    font-family: "Droid sans";
+    line-height: 20px;
+    letter-spacing: 0.1px;
+    color:
+    #76767a;
+}
+#app {
+    position: relative;
+    top: -21px;
+    left: 9px;
+}
+#num {
+    position: relative;
+    color:
+    #76767a;
+    font-size: 12px;
+    font-family: "Droid sans";
+    top: -63px;
+    left: 31px;
+    letter-spacing: -0.1px;
+}
+#conta1 {
+    position: relative;
+    left: 8px;
+    top: -62px;
+}
+#conta2 {
+    position: relative;
+    color: #76767a;
+    font-family: "Droid sans";
+    top: -76px;
+    font-size: 12px;
+}
+#aide1{
+    position: relative;
+    top: -64px;
+    left: 8px;
+}
+#aide2{
+    position: relative;
+    color: #76767a;
+    font-family: "Droid sans";
+    top: -78px;
+    font-size: 12px;
+}
+#billet {
+    position: relative;
+    top: -200px;
+    left: 562px;
+    height: 181px;
+    width: 213px;
+    list-style: none;
+}
+#dernierBillet {
+    position: relative;
+    top: 9px;
+    font-family: "Oswald";
+    font-size: 14.3px;
+    letter-spacing: 0.08px;
+    color: #85827f;
+    font-weight: normal;
+    left: 9px;
+}
+#sep {
+    position: relative;
+    top: 8.5px;
+    left: 10px;
+    font-size: 9px;
+    letter-spacing: 1.6px;
+    font-family: "droid serif";
+    color: #949799;
+    font-weight: normal;
+}
+#garde {
+    position: relative;
+    font-family: "Droid sans";
+    color: #85827f;
+    font-size: 10.9px;
+    font-weight: bolder;
+    top: 6px;
+    left: 10px;
+    letter-spacing: 1px;
+}
+#nouveauServices {
+    position: relative;
+    font-family: "droid sans";
+    font-size: 11.9px;
+    letter-spacing: 0.06px;
+    color: #76767a;
+    font-weight: normal;
+    left: 10px;
+    top: 3px;
+    line-height: 20px;
+}
+#sixCom {
+    position: relative;
+    color: #76767a;
+    font-size: 10px;
+    font-family: "Droid serif";
+    top: -9px;
+    left: 9px;
+    letter-spacing: 0.89px;
+}
+#dernierCom {
+    position: relative;
+    top: -392px;
+    left: 800px;
+    height: 165px;
+    width: 214px;
+    list-style: none;
+}
+#dernierCommentaire {
+    position: relative;
+    font-size: 15px;
+    font-family: "Oswald";
+    left: 11px;
+    top: 3px;
+    letter-spacing: -0.14px;
+    color: #85827f;
+    font-weight: normal;
+}
+#mar {
+    position: relative;
+    top: 2px;
+    left: 11px;
+    font-size: 9px;
+    letter-spacing: 1.8px;
+    font-family: "droid serif";
+    color: #949799;
+    font-weight: normal;
+}
+#merciLequipe {
+    position: relative;
+    font-family: "Droid sans";
+    color: #85827f;
+    font-size: 11.5px;
+    font-weight: bolder;
+    top: -1px;
+    left: 12.4px;
+    letter-spacing: 0.5px;
+}
+#laccroEstVraiment {
+    position: relative;
+    font-family: "droid sans";
+    font-size: 11.4px;
+    letter-spacing: 0.2px;
+    color: #76767a;
+    font-weight: normal;
+    left: 12px;
+    top: -5px;
+    line-height: 20px;
+}
+#blabla {
+    position: relative;
+    top: -574px;
+    left: 1040px;
+    height: 126px;
+    width: 216px;
+    list-style: none;
+}
+#blablaland {
+    position: relative;
+    font-size: 15px;
+    font-family: "Oswald";
+    left: 11px;
+    top: 4px;
+    color: #85827f;
+    font-weight: normal;
+}
+#texteFactice {
+    position: relative;
+    font-family: "droid sans";
+    font-size: 11.4px;
+    letter-spacing: 0.18px;
+    color: #76767a;
+    font-weight: normal;
+    left: 12px;
+    top: -2px;
+    line-height: 20px;
+}
+#grille3 {
+    position: relative;
+    background-image: url("misc/grille.png");
+    height: 219px;
+    top: 16px;
+    width: 1663px;
+}
+.footer {
+    position: relative;
+    top: -601px;
+    width: 1666px;
+    height: 59px;
+}
+#footerr {
+    position: relative;
+    top: -62px;
+    left: 322px;
+    height: 49px;
+    width: 955px;
+    list-style: none;
+}
+#presse {
+    position: relative;
+    text-decoration: none;
+    color: #76767a;
+    font-weight: normal;
+    font-size: 9.6px;
+    font-family: "Droid sans";
+    left: 9.3px;
+    letter-spacing: 0.3px;
+}
+#blog {
+    position: relative;
+    text-decoration: none;
+    color: #76767a;
+    font-weight: normal;
+    font-size: 9.5px;
+    font-family: "Droid sans";
+    left: 19px;
+    letter-spacing: 0.8px;
+}
+#nousContacter {
+    position: relative;
+    text-decoration: none;
+    color: #76767a;
+    font-weight: normal;
+    font-size: 9px;
+    font-family: "Droid sans";
+    left: 29px;
+    letter-spacing: 0.59px;
+}
+#aPropos {
+    position: relative;
+    text-decoration: none;
+    color: #76767a;
+    font-weight: normal;
+    font-size: 9.5px;
+    font-family: "Droid sans";
+    left: 39px;
+    letter-spacing: 0.2px;
+}
+#foooter {
+    position: relative;
+    top: 5px;
+}
+#ligneH {
+    position: relative;
+    font-size: 11px;
+    color: #76767a;
+    font-family: "Droid sans";
+    font-weight: normal;
+    top: 14px;
+    left: 45.5px;
+}
+#ligneH1 {
+    position: relative;
+    font-size: 11px;
+    color: #76767a;
+    font-family: "Droid sans";
+    font-weight: normal;
+    top: -11px;
+    left: 80.49px;
+}
+#ligneH2 {
+    position: relative;
+    font-size: 11px;
+    color: #76767a;
+    font-family: "Droid sans";
+    font-weight: normal;
+    top: -36.2px;
+    left: 164.4px;   
+}
+#foteer {
+    position: relative;
+    top: -3px;
+    left: 322px;
+    height: 49px;
+    width: 955px;
+    list-style: none;
+}
+#copyright {
+    position: relative;
+    font-family: "droid sans";
+    color:
+    #949799;
+    font-size: 9.4px;
+    list-style: none;
+    top: -98px;
+    left: 331px;
+    letter-spacing: 0.35px;
+}
+#icone {
+    position: relative;
+    top: -154px;
+    left: 1016px;
+    height: 50px;
+    width: 305px;    
+}
+#rss {
+    position: relative;
+    top: 7px;
+    left: 41px;
+}
+#gmail {
+    position: relative;
+    top: 7px;
+    left: 41px;
+}
+#twitter {
+    position: relative;
+    top: 7px;
+    left: 41px;
+}
+#facebook {
+    position: relative;
+    top: 7px;
+    left: 41px;
+}
+#pinterest {
+    position: relative;
+    top: 7px;
+    left: 41px;
+}
+#google {
+    position: relative;
+    top: 7px;
+    left: 41px;
+}
